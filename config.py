@@ -1,4 +1,4 @@
-# etrade sand box info
+# sand box info
 
 sandbox_key = "60fffbb238d33e96b53161d7aca7f41a"
 
