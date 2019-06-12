@@ -1,5 +1,5 @@
 Combo,Accuracy,Precision,Recall
 Decision Tree/To Buy Data,81.3,35,79
 Decision Tree/Up Down Data,85,85,83
-SVM/To Buy Data,,,
+SVM/To Buy Data,94.2,8,0
 SVM/Up Down Data,85,84,82
